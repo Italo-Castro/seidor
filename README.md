@@ -1,4 +1,4 @@
- ![image](https://github.com/Italo-Castro/seidor/assets/72866245/9e7e0089-e93e-4f2a-b9d3-0bbcd43858f5)
+![image](https://github.com/Italo-Castro/seidor/assets/72866245/262ab4ce-e468-4a44-8000-04cb6e937ae5)
 
 # Seidor 
 ### Neste repositório está contigo o código fonte do teste feito para a empresa SEIDOR.
@@ -36,3 +36,6 @@
     "motivo": "Emprestimo"
 }
 2. Finalizar a utlização -> http://localhost:4000/api/utilizacaoAutomovel?id=1  -> Deve ser mandado via query o id que vai ser encerrado, e no corpo deve ser enviado o json com a data de finalizacao EX: {"dataFinalizacao":"2023-08-2023" }
+
+
+  #### Caso queira otimizar o trabalho, dentro do projeto tem um diretorio chamado CollectionsPostman, o qual contém as Collection que podem ser importadas dentro do Postamn, para que os EDPOINTS sejam testados. 
